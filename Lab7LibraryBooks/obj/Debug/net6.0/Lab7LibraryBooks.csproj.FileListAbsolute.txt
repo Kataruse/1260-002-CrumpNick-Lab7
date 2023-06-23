@@ -1,0 +1,15 @@
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab7\Lab7LibraryBooks\bin\Debug\net6.0\Lab7LibraryBooks.exe
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab7\Lab7LibraryBooks\bin\Debug\net6.0\Lab7LibraryBooks.deps.json
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab7\Lab7LibraryBooks\bin\Debug\net6.0\Lab7LibraryBooks.runtimeconfig.json
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab7\Lab7LibraryBooks\bin\Debug\net6.0\Lab7LibraryBooks.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab7\Lab7LibraryBooks\bin\Debug\net6.0\Lab7LibraryBooks.pdb
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab7\Lab7LibraryBooks\obj\Debug\net6.0\Lab7LibraryBooks.csproj.AssemblyReference.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab7\Lab7LibraryBooks\obj\Debug\net6.0\Lab7LibraryBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab7\Lab7LibraryBooks\obj\Debug\net6.0\Lab7LibraryBooks.AssemblyInfoInputs.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab7\Lab7LibraryBooks\obj\Debug\net6.0\Lab7LibraryBooks.AssemblyInfo.cs
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab7\Lab7LibraryBooks\obj\Debug\net6.0\Lab7LibraryBooks.csproj.CoreCompileInputs.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab7\Lab7LibraryBooks\obj\Debug\net6.0\Lab7LibraryBooks.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab7\Lab7LibraryBooks\obj\Debug\net6.0\refint\Lab7LibraryBooks.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab7\Lab7LibraryBooks\obj\Debug\net6.0\Lab7LibraryBooks.pdb
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab7\Lab7LibraryBooks\obj\Debug\net6.0\Lab7LibraryBooks.genruntimeconfig.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab7\Lab7LibraryBooks\obj\Debug\net6.0\ref\Lab7LibraryBooks.dll
